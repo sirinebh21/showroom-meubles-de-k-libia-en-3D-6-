@@ -5,7 +5,7 @@ DOCTYPE html>
         <title>showroom meubles de kélibia en 3D </title>
         <p>
             visualistation des meubles en 3d:<br>
-            <img src="Photo meubles 3d" alt="Photo meubles 3d " />
+            <img src="Photo meubles 3d.png" alt="Photo meubles 3d.png" />
             </p>
     </head>
     <body>
